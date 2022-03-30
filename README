@@ -1,0 +1,5 @@
+This contains the data set of birth/death records taken from https://drc.libraries.uc.edu/handle/2374.UC/2032
+The dataset has been cleaned somewhat to address the 2200 records that had a missing field and so data was shifted. 
+The files in this collection include the OpenRefine archive file of the dataset with the JSON file of what was done to clean the data from the original CSV
+Please cite to Cincinnati Birth and Death Records https://drc.libraries.uc.edu/handle/2374.UC/2032 
+This is for educational use only. 
